@@ -1,9 +1,4 @@
-`Preview`
-
-- **블로그 :**
-    
-    [대학생 공작기계 창의 아이디어 공모전 : 네이버 블로그](https://blog.naver.com/kommacontest)
-    
+`Preview`   
 - **아이디어명** : 딥러닝 기술을 이용한 동작감지 시스템 설계
 - **팀명** : 공이바
 - **Tool** : Python, OpenCV, Solidworks
